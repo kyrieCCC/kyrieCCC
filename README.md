@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kyrieCCC
 - 👀 I’m a Front-end engineer
 - 💞️ welcome my GitHub home
+- 📫 I'm a student from UJS
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
