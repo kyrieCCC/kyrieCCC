@@ -1,44 +1,12 @@
-## 个人信息
-- **文利晨**/男/2002年
-- **江苏大学**/本科/信息管理与信息系统
-- 手机：**18289601709**
-- 邮箱：1186624948@qq.com
-- Github：[https://github.com/kyrieCCC](https://github.com/kyrieCCC)
-- 求职意向：**前端开发工程师**（Vuejs/Nodejs）
-## 项目经历
-### dtsz-ui字节跳动青训营组件库项目
-- 功能描述
-	- 支持常见组件的导入使用，对不同的组件类型设有样式选择设置；
-- 技术描述
-	-  使用bem命名规范对类名进行规范化处理；
-	-  使用scss全局样式设置全局属性；
-	-  vitePress动态生成组件的对应文档；
-	-  组件库内容可以在npm官网下载，通过导入npm包的方式引用对应组件
+- 👋 Hi, I’m @kyrieCCC
+- 👀 I’m a Front-end engineer
+- 💞️ welcome my GitHub home
+- 📫 I'm a student from UJS
+<!-- - 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... -->
 
-### DingDing跨境电商前后台系统
-- 功能描述
-	- 支持登录功能，主要分为游客、注册用户和管理人员三大角色；通过前后端互联实现不同商品信息在前端页面的展示；管理人员可以实现对不同商品的价格或者库存的改变
-- 技术描述
-	- 结合vue框架进行搭建；
-	- 通过vue-router实现不同用户的页面跳转；
-	- axios请求后端数据；
-	- koa框架搭建后台服务器，mysql数据库存储数据
-## 个人技能
-- 熟悉JavaScrip语言；熟悉ES6语法、常用API、异步流程控制和promise等
-- 理解vue.js；能熟练使用组合式API；了解vue3的新特性以及选项式API开发
-- 熟悉前端工程化；熟悉webpack；了解vite的基本特性
-- 熟悉nodejs；熟悉nodejs常用API
-- 熟悉 HTTP 协议；熟悉HTTP请求方法、常见响应状态码和缓存控制
-- 熟练掌握Git的使用；熟悉分支管理和代码发布流程
-- 了解使用Linux；了解使用nginx部署网站
-## 实践经历
-### 2020.1-2020.2  新加坡国立大学 “人工智能与机器学习” 主题线上课程（优秀小组）
-- 主题为人工智能机器学习，简述了机器学习算法，神经网络等内容
-- 负责项目内容的全英文汇报，并获得优秀小组
-### 2022.1-2022.2  第五届字节跳动青训营（进阶班）
-- 本次青训项目由国内大牛企业字节跳动主办，通过笔试考核进入青训营进阶班	
-
-## 个人荣誉 
-- 江苏大学国家励志奖学金
-- 江苏大学学习优秀三等奖学金
- 
+<!---
+kyrieCCC/kyrieCCC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
