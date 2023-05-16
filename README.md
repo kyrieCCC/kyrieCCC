@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @kyrieCCC
+- 👋 Hi, I’m @KyrieChen
 - 👀 I’m a Front-end engineer
-- 💞️ welcome my GitHub home
+- 💞️ Welcome my GitHub home
 - 📫 I'm a student from UJS
+- 🌱 Contact me through my email：1186624948@qq.com
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
